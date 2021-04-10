@@ -6,7 +6,7 @@
   
 </head>
 	
-</head>
+
 <body>
 	<img src="BoringGraveAmericanbobtail-small.gif">
 	<marquee behavior="slide"><lnk>https://github.com/LeanerDev</lnk></marquee>
